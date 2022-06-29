@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Djinn.Parser", "Djinn.Parser\Djinn.Parser.csproj", "{3C26F8B1-358B-4AE9-9515-8C297CA6F50E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Djinn.Parser.API", "Djinn.Parser.API\Djinn.Parser.API.csproj", "{303265EA-E01F-4FAE-B186-D1114BBCE044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C26F8B1-358B-4AE9-9515-8C297CA6F50E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C26F8B1-358B-4AE9-9515-8C297CA6F50E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C26F8B1-358B-4AE9-9515-8C297CA6F50E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C26F8B1-358B-4AE9-9515-8C297CA6F50E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{303265EA-E01F-4FAE-B186-D1114BBCE044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{303265EA-E01F-4FAE-B186-D1114BBCE044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{303265EA-E01F-4FAE-B186-D1114BBCE044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{303265EA-E01F-4FAE-B186-D1114BBCE044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

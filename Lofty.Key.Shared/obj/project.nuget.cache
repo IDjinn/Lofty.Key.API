@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bsNTk91VIIEwSk1R5C1hqK2F8qiUBNPA3cO5ZwZI6EyBm/Z/tW94cVjLknQgpU75zfncjS/51cXliHPoocf1RQ==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\csharp\\LoftyKey\\Lofty.Key.Shared\\Lofty.Key.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas\\.nuget\\packages\\flunt\\2.0.3\\flunt.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lofty.Key.Domain", "Lofty.Key.Domain\Lofty.Key.Domain.csproj", "{239C0DBA-8572-44D0-8B6F-01251569CEC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lofty.Key.Shared", "Lofty.Key.Shared\Lofty.Key.Shared.csproj", "{ECF0F0A7-D8DA-493D-8025-D39ADDAFDCB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lofty.Key.Tests", "Lofty.Key.Tests\Lofty.Key.Tests.csproj", "{90441516-DB11-40CB-A73B-94E380E8636D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239C0DBA-8572-44D0-8B6F-01251569CEC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239C0DBA-8572-44D0-8B6F-01251569CEC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239C0DBA-8572-44D0-8B6F-01251569CEC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239C0DBA-8572-44D0-8B6F-01251569CEC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF0F0A7-D8DA-493D-8025-D39ADDAFDCB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF0F0A7-D8DA-493D-8025-D39ADDAFDCB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF0F0A7-D8DA-493D-8025-D39ADDAFDCB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF0F0A7-D8DA-493D-8025-D39ADDAFDCB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90441516-DB11-40CB-A73B-94E380E8636D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90441516-DB11-40CB-A73B-94E380E8636D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90441516-DB11-40CB-A73B-94E380E8636D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90441516-DB11-40CB-A73B-94E380E8636D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

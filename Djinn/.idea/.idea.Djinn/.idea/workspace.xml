@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7ec8b2e-514b-4faf-b4bb-1cd7929a8446" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Djinn/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Djinn/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Djinn/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Djinn/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Djinn/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/Djinn.API.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Debug/net7.0/Djinn.API.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Debug/net7.0/Djinn.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Debug/net7.0/Djinn.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Debug/net7.0/Djinn.API.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Debug/net7.0/Djinn.API.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Debug/net7.0/Djinn.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Djinn.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Djinn.API.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/Djinn.API.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.API/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/Djinn.Parser.API.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Debug/net7.0/Djinn.Parser.API.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Debug/net7.0/Djinn.Parser.API.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Debug/net7.0/Djinn.Parser.API.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Debug/net7.0/Djinn.Parser.API.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Debug/net7.0/Djinn.Parser.API.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Debug/net7.0/Djinn.Parser.API.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Djinn.Parser.API.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Djinn.Parser.API.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/Djinn.Parser.API.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser.API/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Debug/net7.0/Djinn.Parser.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Debug/net7.0/Djinn.Parser.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Debug/net7.0/Djinn.Parser.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Debug/net7.0/Djinn.Parser.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Debug/net7.0/Djinn.Parser.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Debug/net7.0/Djinn.Parser.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Djinn.Parser.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Djinn.Parser.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/Djinn.Parser.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Djinn.Parser/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/.idea/.idea.MauiApp1/.idea/discord.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/.idea/.idea.MauiApp1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/.idea/.idea.MauiApp1/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/.idea/.idea.MauiApp1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/Debug/net6.0-windows10.0.19041.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/Debug/net6.0-windows10.0.19041.0/MauiApp1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/Debug/net6.0-windows10.0.19041.0/MauiApp1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/Debug/net6.0-windows10.0.19041.0/MauiApp1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/Debug/net6.0-windows10.0.19041.0/MauiApp1.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/Debug/net6.0-windows10.0.19041.0/MauiApp1.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/project.packagespec.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Djinn.API/Class1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../MauiApp1/MauiApp1/obj/Debug/net6.0-windows10.0.19041.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AfRgaGvMqRCuqadwM79iXVPX9I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7ec8b2e-514b-4faf-b4bb-1cd7929a8446" name="Changes" comment="" />
+      <created>1655398766773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655398766773</updated>
+      <workItem from="1655398777618" duration="86000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
